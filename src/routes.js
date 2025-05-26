@@ -63,7 +63,7 @@ const routes = [
 
       return h.response({
         status: 'success',
-        message: 'Buku berhasil ditambahkan',
+        message: 'Buku sudah berhasil ditambahkan',
         data: {
           bookId: id,
         },
